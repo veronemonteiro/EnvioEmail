@@ -1,0 +1,13 @@
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.EnviarEmail.exe.config
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.EnviarEmail.exe
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.EnviarEmail.pdb
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.Email.dll
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.Util.dll
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.Email.pdb
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\bin\Debug\VMTech.Util.pdb
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.Envio.resources
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.Properties.Resources.resources
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.UI.Principal.resources
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.csproj.GenerateResource.Cache
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.exe
+C:\Projetos\VMTech\SISTEMAS\DESKTOP\VMTech.EnviarEmail\obj\Debug\VMTech.EnviarEmail.pdb

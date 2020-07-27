@@ -1,0 +1,2 @@
+verone.m@gmail.com;Vermont159951;smtp.gmail.com;587;1;0;
+verone.monteiro@hotmail.com;Vermont159951;smtp-mail.outlook.com;587;1;0;
